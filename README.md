@@ -1,6 +1,5 @@
 # SMC-NCA: Semantic-guided Multi-level Contrast for Semi-supervised Action Segmentation
 
-## UPDATE: The paper is Under Review. We will release all source codes (Unsupervised + semi-supervised) and checkpoints after the paper has been accepted.
 
 
 ### Requirements
