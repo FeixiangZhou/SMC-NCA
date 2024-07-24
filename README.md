@@ -47,5 +47,4 @@ The data directory is arranged in following structure:
 
 #### Acknowledgements
 This code and data processing is based on [ICC](https://github.com/dipika-singhania/ICC-Semi-Supervised-TAS). 
-
-Thanks to the original authors for their work!
+Thanks to the authors for their work!
