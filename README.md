@@ -1,4 +1,4 @@
-# SMC-NCA: Semantic-guided Multi-level Contrast for Semi-supervised Action Segmentation
+# SMC-NCA: Semantic-guided Multi-level Contrast for Semi-supervised Temporal Action Segmentation （IEEE TMM 2024）
 
 
 
