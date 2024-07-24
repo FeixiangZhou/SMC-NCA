@@ -1,6 +1,6 @@
 # 【IEEE TMM 2024】SMC-NCA: Semantic-guided Multi-level Contrast for Semi-supervised Temporal Action Segmentation
 
-## This repository contains the code for SMC-NCA: Semantic-guided Multi-level Contrast for Semi-supervised Temporal Action Segmentation [paper](https://arxiv.org/abs/2312.12347), which has been accepted for IEEE TMM. 
+## This repository contains the code for SMC-NCA: Semantic-guided Multi-level Contrast for Semi-supervised Temporal Action Segmentation [paper](https://arxiv.org/abs/2312.12347), which has been accepted for IEEE Transactions on Multimedia. 
 
 ### Requirements
 * PyTorch 1.12.1
