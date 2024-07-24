@@ -45,7 +45,7 @@ The data directory is arranged in following structure:
     python semi_supervised_train.py --split_number 1 --semi_per 0.05 --output_dir mstcn_data/50salads/results/SMC/ --base_dir mstcn_data/50salads/ --model_wt mstcn_data/50salads/results/SMC/unsupervised_C2FTCN_splitfull/best_50salads_c2f_tcn.wt 
 
 
-#### Acknowledgements
+### Acknowledgements
 This code and data processing is based on [ICC](https://github.com/dipika-singhania/ICC-Semi-Supervised-TAS). 
 Thanks to the authors for their work!
 
