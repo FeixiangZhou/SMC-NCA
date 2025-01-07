@@ -11,7 +11,7 @@
 
 ### Dataset:
 
-The I3D features, ground-truth and test split files are similar used to [ICC](https://github.com/dipika-singhania/ICC-Semi-Supervised-TAS). To test our approach, we have provided a checkpoint for unsupervised representation learning on 50Salads.
+The I3D features, ground-truth and test split files are similar used to [ICC](https://github.com/dipika-singhania/ICC-Semi-Supervised-TAS). To test our approach, we have provided a checkpoint for unsupervised representation learning on 50Salads [Google Drive](https://drive.google.com/file/d/1UyOPE7VAcL_-qpzEjMyIGHmhsDjG0aTK/view?usp=sharing).
 
 The data directory is arranged in following structure:
 
