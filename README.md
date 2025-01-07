@@ -53,11 +53,16 @@ Thanks to the authors for their work!
 
 If you find this work helpful, please consider citing our paper
 ```
-@article{zhou2023smc,
-  title={SMC-NCA: Semantic-guided Multi-level Contrast for Semi-supervised Action Segmentation},
+@ARTICLE{10663061,
   author={Zhou, Feixiang and Jiang, Zheheng and Zhou, Huiyu and Li, Xuelong},
-  journal={arXiv preprint arXiv:2312.12347},
-  year={2023}
+  journal={IEEE Transactions on Multimedia}, 
+  title={SMC-NCA: Semantic-Guided Multi-Level Contrast for Semi-Supervised Temporal Action Segmentation}, 
+  year={2024},
+  volume={26},
+  number={},
+  pages={11386-11401},
+  keywords={Videos;Semantics;Hidden Markov models;Representation learning;Training;Semisupervised learning;Contrastive learning;Action segmentation;semi-supervised learning;contrastive learning;mouse social behaviour;parkinson's disease (PD)},
+  doi={10.1109/TMM.2024.3452980}}
 }
 ```
 
